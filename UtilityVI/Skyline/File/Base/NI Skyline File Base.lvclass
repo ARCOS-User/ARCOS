@@ -180,7 +180,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
-	<Item Name="nifile.mnu" Type="Document" URL="../../../../../../../../../C/Program Files/National Instruments/LabVIEW 2019/menus/Categories/Data Communication/_skyline/nifile.mnu"/>
+	<Item Name="nifile.mnu" Type="Document" URL="../../../../../../../../C/Program Files/National Instruments/LabVIEW 2019/menus/Categories/Data Communication/_skyline/nifile.mnu"/>
 	<Item Name="Open 2.vi" Type="VI" URL="../Open 2.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0)F,#YJ!!%!!!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

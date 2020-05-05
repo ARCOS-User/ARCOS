@@ -70,5 +70,5 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
 	</Item>
-	<Item Name="nitaghistory.mnu" Type="Document" URL="../../../../../../../../../../C/Program Files/National Instruments/LabVIEW 2019/menus/Categories/Data Communication/_skyline/_nitag/nitaghistory.mnu"/>
+	<Item Name="nitaghistory.mnu" Type="Document" URL="../../../../../../../../../C/Program Files/National Instruments/LabVIEW 2019/menus/Categories/Data Communication/_skyline/_nitag/nitaghistory.mnu"/>
 </LVClass>
